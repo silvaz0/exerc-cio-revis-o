@@ -1,0 +1,1 @@
+//Criar um programa para verifica5r se um número é mútiplo por 5.
